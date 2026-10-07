@@ -7,11 +7,8 @@ public class SetGet {
 		car.setmileage(35);
 		car.setname("Bmw");
 		System.out.println(car.getmileage());
-		System.out.println(car.getname());
-		
-		
+		System.out.println(car.getname());	
 	}
-
 }
 class Car2
 {
